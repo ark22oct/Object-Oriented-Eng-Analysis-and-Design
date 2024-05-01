@@ -11,8 +11,6 @@ The project is a bookstore application designed to manage book inventory and cus
 
 The rationale for using the State Design Pattern is based on the need for the application to handle different states for users (owner and customer) and adapt its behavior accordingly. By employing this pattern, the code becomes more organized, modular, and easier to maintain and extend.
 
-One of the use cases described is from the customer's perspective, focusing on selecting books for purchase and completing the transaction. Another use case is from the owner's perspective, detailing interactions with the bookstore application, including managing books and customers.
-
 The project's primary features include user authentication, book selection, payment options, and data management for books and customers. It ensures that changes made by the owner are reflected in the application's data files and that the application handles exceptions and special requirements, such as invalid logins and book availability. Overall, the project aims to provide a functional and user-friendly bookstore application for both owners and customers.
 
 # Key Objectives
