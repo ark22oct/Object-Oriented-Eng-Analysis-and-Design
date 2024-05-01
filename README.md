@@ -6,7 +6,7 @@ Analysis and design of complex engineering systems, software development, and pr
 
 A software development project was developed to illustrate the design process—development of expertise in analyzing, designing, implementing, and testing industrial-quality, reusable software systems. 
 
-# Project Description
+# Project (Bookstore Application) Overview
 Bookstore application designed to manage book inventory and customer interactions. It provides two types of users: owner and customer. The owner has privileges to manage customers and books, including adding and deleting them. The customer, after successful registration by the owner, can log in and select books for purchase, with options to pay by redeeming points or cash.
 
 The rationale for using the State Design Pattern is based on the need for the application to handle different states for users (owner and customer) and adapt its behavior accordingly. By employing this pattern, the code becomes more organized, modular, and easier to maintain and extend.
